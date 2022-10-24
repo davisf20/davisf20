@@ -1,6 +1,9 @@
 👋 Hi, I’m @davisf20
+
 👀 I’m interested in Computer Science 🖥️, Football ⚽, F1 🏎️ and Music 🎧.
+
 📚 I’m currently studying Computer Engineering.
+
 📫 How to reach me:
   - 📧 davis.fusco.20@gmail.com
 
